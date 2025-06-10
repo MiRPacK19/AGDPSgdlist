@@ -1,0 +1,24 @@
+{
+    "id": 168,
+    "name": "Espresso Dash",
+    "author": "Sotka",
+    "creators": ["Sotka"],
+    "verifier": "Sotka",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "74",
+    "password": "",
+    "records": [
+        {
+            "user": "leonsoft21",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "za1lix",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}
