@@ -1,0 +1,18 @@
+{
+    "id": 155,
+    "name": "Zo1nKk",
+    "author": "Sotka",
+    "creators": ["Sotka"],
+    "verifier": "Sotka",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "80",
+    "password": "",
+    "records": [
+        {
+            "user": "MamytRahal",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
