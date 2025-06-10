@@ -1,0 +1,42 @@
+{
+    "id": 106,
+    "name": "Challenge",
+    "author": "Sotka",
+    "creators": ["Sotka"],
+    "verifier": "Sotka",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Kr0shka",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "leonsoft21",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "forz1yyyy",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "MamytRahal",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Flowix3838",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}
