@@ -1,0 +1,18 @@
+{
+    "id": 162,
+    "name": "Brave wave",
+    "author": "sarizx",
+    "creators": ["sarizx"],
+    "verifier": "sarizx",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "62",
+    "password": "",
+    "records": [
+        {
+            "user": "MamytRahal",
+            "link": "",
+            "percent": 98,
+            "hz": "CBF"
+        }
+    ]
+}
